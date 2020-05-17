@@ -11,6 +11,14 @@
 # production
 /build
 
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
 # misc
 .DS_Store
 .env.local
